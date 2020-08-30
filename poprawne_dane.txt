@@ -1,0 +1,4 @@
+maria,rycielska,Junior,1,1000
+jan ,kowalski,senior,5,4000
+Adam,Straszki,Mid,2,3000
+Krzysztof,Jarzyna,Senior,15,10000
